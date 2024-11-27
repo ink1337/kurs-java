@@ -1,0 +1,15 @@
+# IntelliJ IDEA project files
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/jarRepositories.xml
+.idea/workspace.xml
+.idea/vcs.xml
+
+# Build output directories
+out/
+
+# Compiled Java class files
+*.class
+
+# User-specific files
+*.iml
